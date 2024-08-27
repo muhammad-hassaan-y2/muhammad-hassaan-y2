@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hassaan</h1>
-<h3 align="center">Gen-AI Specialist | Modern Full Stack Developer | Diving in to Web 3.0, and Metaverse</h3>
+<h3 align="center">Gen-AI Engineer | Modern Full Stack Developer | Diving in to Web 3.0, and Metaverse</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-hassaan-y2&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-hassaan-y2" /> </p>
 
